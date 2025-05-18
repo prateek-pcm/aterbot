@@ -1,15 +1,15 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
-		"username": "Please enter the bot's username you want"
+		"host": "Cutiepiegamer.aternos.me",
+		"port": "50306",
+		"username": "24/7"
 	},
 	
 	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
 	"logLevel": ["error", "log", "debug"],
 	"action": {
 		"commands": ["forward", "back", "left", "right", "jump"],
-		"holdDuration": 5000,
+		"holdDuration": 9999999999999999999,
 		"retryDelay": 15000
 	}
 }
